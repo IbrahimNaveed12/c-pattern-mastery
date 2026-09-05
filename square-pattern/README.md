@@ -2,6 +2,8 @@
 
 This C program prints a square made of asterisks. The square has 5 rows and 5 columns.
 
+
+
 ## Loop Logic
 
 - The outer `for` loop controls the rows.
